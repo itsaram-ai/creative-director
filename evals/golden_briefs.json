@@ -1,0 +1,41 @@
+[
+  {
+    "brief": {
+      "topic": "why most students misuse AI tools when studying",
+      "audience": "university students",
+      "platform": "tiktok",
+      "goal": "grow followers in the study-tips niche"
+    },
+    "expect": {
+      "max_hashtags": 5,
+      "platform_terms_any": ["watch", "first", "scroll", "second", "hook"],
+      "min_mean_score": 3.0
+    }
+  },
+  {
+    "brief": {
+      "topic": "lessons from my first machine learning project failing",
+      "audience": "early-career software engineers",
+      "platform": "linkedin",
+      "goal": "build personal brand credibility"
+    },
+    "expect": {
+      "max_hashtags": 3,
+      "platform_terms_any": ["learned", "I ", "my "],
+      "min_mean_score": 3.0
+    }
+  },
+  {
+    "brief": {
+      "topic": "how independent musicians can promote a new single",
+      "audience": "gen z independent artists",
+      "platform": "tiktok",
+      "goal": "drive streams"
+    },
+    "expect": {
+      "max_hashtags": 5,
+      "platform_terms_any": ["sound", "audio", "video", "trend", "post"],
+      "min_mean_score": 3.0
+    }
+  }
+]
