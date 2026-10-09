@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="creative-director-thumbnail" src="https://github.com/user-attachments/assets/95a97e44-f59a-460d-9160-fe64ce0c7642" />
+
 # creative-director
 
 A multi-agent LLM pipeline that decides **what** content to make — then makes
